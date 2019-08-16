@@ -1,4 +1,8 @@
 Git is a version control system.
 Git is free software.
 Git branch test
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick AND simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
